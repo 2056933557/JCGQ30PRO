@@ -19,6 +19,7 @@ on:
 permissions:
   contents: write
   actions: write
+  repository-projects: write
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
